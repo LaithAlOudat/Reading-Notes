@@ -5,7 +5,9 @@
 ![GitHub](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 #### *ACP: add, commit, and push. add, to add something on your project. commit, to refer who did the changes and what was changed. push, to push everything changed on your project to github platform.
-
+#### *(git add) command to tell git that i make changes and put these changes to your tracking system
+#### *(git commit) command to mention who did the changes and what is changed
+#### *(git push origin) command to push your changes to GitHub cloud
 #### * Examples for some command:
 #### * Default Text Editor: git config --global core.editor emacs
 #### * Check Settings : git config --list
