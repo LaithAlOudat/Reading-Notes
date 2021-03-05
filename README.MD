@@ -7,7 +7,7 @@
 
 ### Reading Notes for 102 coding course:-
 
-| read #      | links                                                                    |
+| read #      | lectures' titles and links                                               |
 |:-----------:|:-----------:                                                             |
 | read01      |[Choosing a Text Editor / The Coder's Computer](https://laithaloudat.github.io/Reading-Notes/read01)        |
 | read02a     |[Mastering Markdown / Learning Markdown](https://laithaloudat.github.io/Reading-Notes/read02a)         |
