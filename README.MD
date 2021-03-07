@@ -18,5 +18,5 @@
 | read04c     |[Do Along / Dynamic web pages with JavaScript](https://laithaloudat.github.io/reading04c/)|
 | read05      |[Loops and Operators]()
 
-
+Editing
 
