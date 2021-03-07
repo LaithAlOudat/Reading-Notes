@@ -16,4 +16,7 @@
 | read04a     |[Java Script / Programming with JavaScript](https://laithaloudat.github.io/Reading-Notes/read04a)       |
 | read04b     |[How Computers work / Computer Architecture and Logic](https://laithaloudat.github.io/Reading-Notes/read04b)   |
 | read04c     |[Do Along / Dynamic web pages with JavaScript](https://laithaloudat.github.io/reading04c/)|
+| read05      |[Loops and Operators]()
+
+
 
